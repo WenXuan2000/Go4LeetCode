@@ -25,7 +25,6 @@ func Max(x, y int) int {
 	} else {
 		return y
 	}
-
 }
 func main() {
 	text1, text2 := "abcde", "ace"
